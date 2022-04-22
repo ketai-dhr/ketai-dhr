@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E5%81%87&vCenter=%E5%81%87&lines=welcome+to+my+space)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=F7193E&background=FF85C600&center=%E7%9C%9F&vCenter=%E7%9C%9F&lines=welcome+to+my+space)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @ketai-dhr
 - 👀 I’m interested in basketball
