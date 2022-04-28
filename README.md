@@ -7,13 +7,6 @@
 <span>  </span>
 </div>
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ketai-dhr" />
-</div>
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ketai-dhr&theme=minimal" />
-</div>
 
 - 👋 Hi, I’m @ketai-dhr
 - 👀 I’m interested in basketball
